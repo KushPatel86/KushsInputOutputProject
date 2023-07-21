@@ -1,0 +1,15 @@
+3 and 6 added is 9
+2 and 19 subtracted is -17
+5 and 5 multiplied is 25
+5 and 5 added is 10
+3 and 100 multiplied is 300
+3 and 100 added is 103
+10 and 5 quotient is 2
+10 and 5 added is 15
+4 and 9 added is 13
+10 and -2 multiplied is -20
+10 and -2 added is 8
+45 and 7 quotient is 6
+45 and 7 added is 52
+33 and 0 subtracted is 33
+24 and 8 subtracted is 16

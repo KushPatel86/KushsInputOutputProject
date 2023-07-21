@@ -1,0 +1,10 @@
+add 3 6
+subtract 2 19
+multiply 5 5 
+multiply 3 100
+divide 10 5 
+add 4 9
+multiply 10 -2
+divide 45 7
+subtract 33 0
+subtract 24 8
